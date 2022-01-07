@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "2646731f-74d0-28d0-9afa-813433639367",
+  "instructors": {
+    "content": [
+      "f1b48cd2-847a-023a-9d48-0696d873f3c7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3f0c1f66-fea1-cf2d-46ee-60f02b2422d3",
+    "website": "18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009"
+  },
+  "course_title": "Topics in Theoretical Computer Science: An Algorithmist's Toolkit",
+  "course_description": "This course covers a collection of geometric techniques that apply broadly in modern algorithm design.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.409",
+  "course_image_thumbnail": {
+    "content": "e8d5a5d2-0b0b-ded4-65a2-0ec5773617ef",
+    "website": "18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "d32c56dc-84b8-4212-8116-eb4b3f8ded1d",
+  "title": "Course Metadata"
+}
